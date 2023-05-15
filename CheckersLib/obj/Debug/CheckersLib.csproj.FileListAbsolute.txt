@@ -1,0 +1,6 @@
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\bin\Debug\CheckersLib.dll
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\bin\Debug\CheckersLib.pdb
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\obj\Debug\CheckersLib.csproj.AssemblyReference.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\obj\Debug\CheckersLib.csproj.CoreCompileInputs.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\obj\Debug\CheckersLib.dll
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersLib\obj\Debug\CheckersLib.pdb

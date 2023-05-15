@@ -1,0 +1,43 @@
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.AssemblyReference.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.EnglishCheckersForm.resources
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.Properties.Resources.resources
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.RussianCheckersForm.resources
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.SelectingForm.resources
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.GenerateResource.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CoreCompileInputs.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CopyComplete
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp.exe.config
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.exe
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.pdb
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp.exe
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\CheckersApp.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.MainMenu.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.Properties.Resources.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.RussianCheckersForm.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.GenerateResource.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CopyComplete
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp.exe.config
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.exe
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp.exe
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.Settings.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.UserNameForm.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\CheckersApp\obj\Debug\CheckersApp.csprojAssemblyReference.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.AssemblyReference.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.SuggestedBindingRedirects.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.MainMenu.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.Properties.Resources.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.RussianCheckersForm.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.Settings.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.UserNameForm.resources
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.GenerateResource.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.csproj.CopyComplete
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp.exe.config
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.exe
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp\obj\Debug\CheckersApp.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp.exe
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\CheckersApp.pdb

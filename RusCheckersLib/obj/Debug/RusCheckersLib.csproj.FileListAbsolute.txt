@@ -1,0 +1,18 @@
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.dll
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.pdb
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csproj.AssemblyReference.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csproj.CoreCompileInputs.cache
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.dll
+C:\Users\pelki\Desktop\Шашки\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.dll
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.dll
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csprojAssemblyReference.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.dll
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\bin\Debug\RusCheckersLib.pdb
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csproj.AssemblyReference.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.dll
+E:\МДК 01.01 РПМ\2023\Курсач\Checkers-main_V2\Checkers\RusCheckersLib\obj\Debug\RusCheckersLib.pdb
